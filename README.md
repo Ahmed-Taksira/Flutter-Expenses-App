@@ -1,16 +1,9 @@
-# expenses
+# Expenses App
 
-A new Flutter project.
+The aim of this project was to explore all different widgets of Flutter along with their usage to implement responsive and adaptive UI.
 
-## Getting Started
+## Application Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- User can view his/her week expenses
+- User can add new expense card that contains the amount paid, the date, and a title of what the user paid for
+- User can delete any expense card
